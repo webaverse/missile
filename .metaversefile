@@ -1,4 +1,5 @@
 {
   "name": "missile",
+  "description": "missile",
   "start_url": "missile.glb"
 }
